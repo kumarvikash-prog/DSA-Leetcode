@@ -22,9 +22,14 @@ This contain all Leetcode submitted questions
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
