@@ -7,6 +7,7 @@ This contain all Leetcode submitted questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## String
 |  |
@@ -18,4 +19,12 @@ This contain all Leetcode submitted questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
