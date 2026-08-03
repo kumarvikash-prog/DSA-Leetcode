@@ -22,14 +22,20 @@ This contain all Leetcode submitted questions
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0724-find-pivot-index](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
