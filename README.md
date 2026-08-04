@@ -9,6 +9,7 @@ This contain all Leetcode submitted questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## String
@@ -30,6 +31,7 @@ This contain all Leetcode submitted questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0724-find-pivot-index) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@ This contain all Leetcode submitted questions
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
