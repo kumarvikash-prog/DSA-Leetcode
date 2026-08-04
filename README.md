@@ -7,6 +7,7 @@ This contain all Leetcode submitted questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## String
@@ -25,6 +26,7 @@ This contain all Leetcode submitted questions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0179-largest-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -32,6 +34,7 @@ This contain all Leetcode submitted questions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0179-largest-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Prefix Sum
 |  |
@@ -41,8 +44,13 @@ This contain all Leetcode submitted questions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0179-largest-number) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarvikash-prog/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
